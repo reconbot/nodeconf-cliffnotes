@@ -1,6 +1,8 @@
 nodeconf-cliffnotes
 ==============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/nodeconf-cliffnotes.svg)](https://greenkeeper.io/)
+
 Just a repo to keep notes about nodeconf speakers.  This project utilizes trello.com as an entry-interface, and nodejs + backbonejs for display.
 
 ## Live Site
